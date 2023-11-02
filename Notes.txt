@@ -1,0 +1,23 @@
+// Double Addresses
+    // "1A SH 1, Woodhill, Whangarei",
+
+    //mix
+    //let addresses = ["78 Gore Mataura Highway, Char", "58 Great Harbour Way-Te Aranui O Poneke, Seatoun, Wellington", "58 Great Harbour Way-Te Aranui O Poneke, Seatoun, Wellington"]
+    //Ineligible
+    //let addresses = ["78 Gore Mataura Highway, Char", "58 Great Harbour Way-Te Aranui O Poneke, Seatoun, Wellington", "23 Harbour View Terrace, Cass Bay, Lyttelton"];
+    //Eligible
+    //let addresses = ["9 Far North Road, Pukenui", "4567A SH 12, Kaikohe, Far", "2 Manukau Station Road, Manukau, Auckland"];
+    //Mix of eligible and ineligible
+    //let addresses = ["58 Great Harbour Way-Te Aranui O Poneke, Seatoun, Wellington", "23 Harbour View Terrace, Cass Bay, Lyttelton", "14 Watson Place, Papatoetoe, Auckland", "353 Blockhouse Bay Road, Blockhouse Bay, Auckland", "9 Far North Road, Pukenui", "4567A SH 12, Kaikohe, Far", "235A Balmoral Road, Sandringham, Auckland"];
+
+    // B, B, G, G
+//35 Cass Street, Temuka, Timaru D-n-3/449 Blockhouse Bay Road, Blockhouse Bay-n-1 Gordon Terrace, East Gore, Gore-n-2 Manukau Station Road, Manukau, Auckland
+
+//
+//5 Farrimond Place, Kaitaia, Far No-n-35 Cass Street, Temuka, Timaru D-n-3/449 Blockhouse Bay Road, Blockhouse Bay-n-1 Gordon Terrace, East Gore, Gore-n-2 Manukau Station Road, Manukau, Auckland-n-1 Golfland Drive, Golflands, Manukau, Auckland-n-100 Hastings Street South, Hastings
+//"58 Great Harbour Way-Te Aranui O Poneke, Seatoun, Wellington", "23 Harbour View Terrace, Cass Bay, Lyttelton", "14 Watson Place, Papatoetoe, Auckland", "353 Blockhouse Bay Road, Blockhouse Bay, Auckland", "9 Far North Road, Pukenui", "4567A SH 12, Kaikohe, Far", "235A Balmoral Road, Sandringham, Auckland"
+
+
+//3/449 Blockhouse Bay Road, Blockhouse Bay
+//35 Cass Street, Temuka, Timaru District
+//1 Gordon Terrace, East Gore, Gore
